@@ -6,7 +6,7 @@
 
 
 ```sh
-go get  github.com/china8036/log
+go get  github.com/china8036/golog
 ```
 
 ## Example
@@ -17,7 +17,7 @@ package main
 import (
 	"time"
 
-	"github.com/china8036/golang/log"
+	log "github.com/china8036/golog"
 )
 
 func main() {
